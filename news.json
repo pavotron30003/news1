@@ -2,11 +2,8 @@
   "news": [
     {
       "title": "Public release",
-      "titleEs": "Lanzamiento publico",
       "date": "today",
-      "dateEs": "hoy",
-      "body": "First public dock version.",
-      "bodyEs": "Primera version publica del dock."
+      "body": "First public dock version."
     }
   ]
 }
