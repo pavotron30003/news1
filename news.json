@@ -2,8 +2,10 @@
   "news": [
     {
       "title": "Public release",
-      "date": "today",
-      "body": "First public dock version."
+      "body": "First public dock version. (Avaible for testers)" 
     }
   ]
 }
+
+
+
